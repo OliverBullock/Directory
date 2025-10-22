@@ -158,10 +158,14 @@ const App: React.FC = () => {
         </Modal>
       </main>
       <footer className="text-center py-6 text-white/40 text-sm">
-        <p>Created with Gemini</p>
+        <p>Created by OJB</p>
       </footer>
     </div>
   );
 };
 
 export default App;
+import React from 'react'
+export default function App() {
+  return <div>App is running</div>
+}
