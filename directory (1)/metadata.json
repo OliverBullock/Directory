@@ -1,0 +1,5 @@
+{
+  "name": "Directory",
+  "description": "A simple application to keep a directory of people and interesting facts about them. Add new contacts, view your directory, and click on a card to recall a fact before a meeting.",
+  "requestFramePermissions": []
+}
